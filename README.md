@@ -8,6 +8,8 @@
 
 ## ゲームをプレイするには
 
+0. コードをダウンロード(もしくはgit clone)してください。
+
 1. `pip install -r requirements.txt`で必要なライブラリをインストールしてください。`pyxel`の他に`perlin-noise`というライブラリを使用しています。
 
 2. `python main.py` でプレイができます。
